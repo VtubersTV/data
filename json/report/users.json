@@ -1,0 +1,80 @@
+{
+    "categories": [
+      {
+        "name": "Inappropriate Content Sharing",
+        "subcategories": [
+          "Graphic violence",
+          "Nudity",
+          "Sexually explicit material"
+        ]
+      },
+      {
+        "name": "Harassment or Bullying",
+        "subcategories": [
+          "Targeted harassment",
+          "Bullying",
+          "Intimidation"
+        ]
+      },
+      {
+        "name": "Spamming",
+        "subcategories": [
+          "Unsolicited messages",
+          "Advertisements",
+          "Links"
+        ]
+      },
+      {
+        "name": "Impersonation",
+        "subcategories": [
+          "Impersonating someone else"
+        ]
+      },
+      {
+        "name": "Hate Speech or Abuse",
+        "subcategories": [
+          "Promoting hate speech",
+          "Discrimination",
+          "Abusive behavior"
+        ]
+      },
+      {
+        "name": "Illegal Activities",
+        "subcategories": [
+          "Promotion or facilitation of illegal activities"
+        ]
+      },
+      {
+        "name": "Violation of Intellectual Property Rights",
+        "subcategories": [
+          "Copyright infringement",
+          "Trademark infringement"
+        ]
+      },
+      {
+        "name": "Encouraging Harmful Behavior",
+        "subcategories": [
+          "Encouraging self-harm",
+          "Encouraging suicide",
+          "Encouraging drug abuse",
+          "Encouraging violence"
+        ]
+      },
+      {
+        "name": "Misleading or False Information",
+        "subcategories": [
+          "Spreading misinformation",
+          "Spreading false news",
+          "Spreading deceptive content"
+        ]
+      },
+      {
+        "name": "Repeated Violations",
+        "subcategories": [
+          "History of violating community guidelines",
+          "History of violating terms of service"
+        ]
+      }
+    ]
+  }
+  
