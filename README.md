@@ -19,6 +19,7 @@ Open Data Repository/
 │ └── videos.json # JSON file containing reporting data for video content
 └── text/
 ├── pronouns.txt # A text file listing various pronouns
+└── blacklist.emails.txt # A text file containing blacklisted email addresses
 └── blacklist_words.txt # A text file containing blacklisted words
 ```
 
