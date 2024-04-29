@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Build and Release CLI",
+        "description": "A CLI tool to automate the build and release process",
+        "url": "https://github.com/VtubersTV/cli/blob/master/.github/workflows/build.yml",
+        "raw_url": "https://raw.githubusercontent.com/VtubersTV/cli/master/.github/workflows/build.yml",
+        "repo": "VtubersTV/cli"
+    }
+]
