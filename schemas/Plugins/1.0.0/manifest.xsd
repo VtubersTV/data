@@ -7,7 +7,7 @@
                 <xs:element name="Author" type="xs:string"/>
                 <xs:element name="Version" type="xs:string"/>
                 <xs:element name="Description" type="xs:string"/>
-                <xs:element name="Contributors">
+                <xs:element name="Contributors" minOccurs="0">
                     <xs:complexType>
                         <xs:sequence>
                             <xs:element name="Contributor" maxOccurs="unbounded">
